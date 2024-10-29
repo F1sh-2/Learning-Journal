@@ -9,5 +9,4 @@ started writing a tutorial for player movement and getting going with a type of 
 step by step guide.
 
 29/10/24
-starting a new game prototype/tutorial on pickups.
-the aim for today is to improve functions
+starting a new tutorial drag and drop it went well as a simple code to do 
