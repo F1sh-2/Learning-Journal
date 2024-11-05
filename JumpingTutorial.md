@@ -32,4 +32,5 @@ just this code> isJumping = false; underneath
 so it should end/look like this when finished.
 ![cube](https://github.com/user-attachments/assets/53a66a23-a196-4d3a-946e-944b2e34f578)
 
-
+# makeing sure you put a rigid body 
+![line](https://github.com/user-attachments/assets/3e15f970-b97c-4b3a-b928-23a284507bda)
