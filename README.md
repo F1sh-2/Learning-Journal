@@ -15,3 +15,5 @@ starting a new tutorial drag and drop it went well as a simple code to do
 05/11/24
 today im working on a code for a jumping tutorial for my main character/box to have more funtions
 this might take some time.
+# Update
+i managed to fix the problem that would make the box just drop completely by rapidly tapping the box.
