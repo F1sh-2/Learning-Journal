@@ -12,6 +12,7 @@ Time to start coding the tutorial.
 
 (7) How to Create Player Movement in UNITY (Rigidbody & Character Controller) - YouTube 
 
+![Capture](https://github.com/user-attachments/assets/1ba7f3bb-3fe3-419d-b4e4-92813500a88e)
 
 
 This video will help you if you get stuck at any point in the sections 
