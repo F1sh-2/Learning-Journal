@@ -11,3 +11,7 @@ step by step guide.
 
 29/10/24
 starting a new tutorial drag and drop it went well as a simple code to do 
+
+05/11/24
+today im working on a code for a jumping tutorial for my main character/box to have more funtions
+this might take some time.
