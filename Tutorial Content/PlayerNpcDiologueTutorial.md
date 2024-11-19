@@ -26,7 +26,7 @@ If you want a advance version for extra reading try this tutorial if you like a 
 Please doubleclick the script but call it the npc chat to shorten the name to save time 
 ![image](https://github.com/user-attachments/assets/ace42129-e723-44d5-92ce-f2de33a836dd)
 This will then take you into the visual studio
-![image](https://github.com/user-attachments/assets/ae423bda-69f8-4772-9ce8-fb7b5a5e8349)
+
 This should pop up when clicking on the script.
 
 
