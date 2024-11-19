@@ -31,6 +31,22 @@ This should pop up when clicking on the script.
 so before we do anything just yet make sure you have a text file on the npc dialogue how you do this its a pretty simple
 so open the create option go into the ui and get to the legacy option and pick text this is here to remind you and so it works going forward.
 ![image](https://github.com/user-attachments/assets/0377b739-6280-49ac-b914-94fdb681aecc)
+also you will need to create a npc character that can be a simple cube since just a sample as it would have more functionality as you would have multiple codes that would align in the idea so they work together
+so create a ui document this would give you a gray block text file name it anything you like 
+and then after that add another text file but leave this blank you will need also a canvas which will include a button and the ui needed for these tasks this may feel random it must look like this.
+![image](https://github.com/user-attachments/assets/706aae83-b9e8-4bf2-84c4-1beb6e037532)
+![image](https://github.com/user-attachments/assets/4a1806e1-c5b6-4f7d-a00a-f7a8362a6d6b)
+in the second screenshot follow the gameobject mode and create the ui types each one being different.
+![image](https://github.com/user-attachments/assets/80bd3a27-a8e5-4edd-a55d-2a6d9b734ae0)
+in this screenshot create the eventsystem and the canvas as these are needed for this to work also select the text for the functions and naming of each part of the dialouge.
+# back to the coding part after taking a detour
+Continuing the coding 
+
+
+
+
+
+
 
 
 
