@@ -37,10 +37,51 @@ and then after that add another text file but leave this blank you will need als
 ![image](https://github.com/user-attachments/assets/706aae83-b9e8-4bf2-84c4-1beb6e037532)
 ![image](https://github.com/user-attachments/assets/4a1806e1-c5b6-4f7d-a00a-f7a8362a6d6b)
 in the second screenshot follow the gameobject mode and create the ui types each one being different.
-![image](https://github.com/user-attachments/assets/80bd3a27-a8e5-4edd-a55d-2a6d9b734ae0)
+![image](https://github.com/user-attachments/assets/06dad15d-4116-446d-a48e-44a79ece7935)
+
 in this screenshot create the eventsystem and the canvas as these are needed for this to work also select the text for the functions and naming of each part of the dialouge.
 # back to the coding part after taking a detour
-Continuing the coding 
+Continuing the coding so you have the visual studio open please go back into this app as you will need this to do the vital part of the npc chat so starting of simple please follow this screenshot of the first part please make sure you label the objects you made these are !IMPORTANT! it could mess up your files and the whole thing if not careful so please copy the names.
+# code part 1
+public GameObject dialoguePanel;
+public Text dialogueText;
+public string[] dialogue;
+private int index;
+
+public GameObject contButton;
+public float wordSpeed;
+public bool playerIsClose;
+screenshot
+![image](https://github.com/user-attachments/assets/62eb80b3-c693-467b-8137-c027b9d2f8c8)
+![image](https://github.com/user-attachments/assets/91ec8d33-3a04-4958-8018-b639e9086906)
+Then after that please put the next step of code this is an important one as this will help enter text which has a keycode when pressed will show up
+so please enter this code
+![image](https://github.com/user-attachments/assets/d0594950-4dd4-4fbe-b155-22f7d6c08632)
+ if (Input.GetKeyDown(KeyCode.E) && !playerIsClose)
+ {
+     if (dialoguePanel.activeInHierarchy)
+     {
+         zeroText();
+     }
+     else
+     {
+         dialoguePanel.SetActive(true);
+         StartCoroutine(Typing());
+
+
+     }
+ }
+ if(dialogueText.text == dialogue[index])
+ {
+     contButton.SetActive(true);
+ }    
+it wants to check for any text or functions you have applied to make sure its fine to use.
+
+
+
+
+
+
 
 
 
