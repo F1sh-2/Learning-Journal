@@ -1,6 +1,7 @@
 # Welcome to the npc tutorial.
 today, you will learn how to make NPC dialogue
 this can be a hard one to-do as it requires alot of paitence 
+i use this video to help me learn the code in the tutorial ////https://www.youtube.com/watch?v=1nFNOyCalzo//
 you will need these items:
 unity
 github
