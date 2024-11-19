@@ -5,6 +5,8 @@ you will need these items:
 unity
 github
 github desktop app
+visual studio
+# next section 
 to import the files and the importance of this is so we know where our files and main sections can be located and protected in the future.
 so if you have unity installed please open up a 3d project file how you do this right follow the image down below 
 ![image](https://github.com/user-attachments/assets/ffe63c4e-3526-437f-a24a-d395af2b016c)
@@ -18,6 +20,15 @@ i used a youtube video to help with any errors i may of found when doing this my
 //https://www.youtube.com/watch?v=1nFNOyCalzo//
 If you want a advance version for extra reading try this tutorial if you like a challange
 //https://www.youtube.com/watch?v=vY0Sk93YUhA//
+ Lets get into the codeing parts So please create a c# script 
+ How do you do this so go into create you do this by right clicking the mouse check the image below as an example.
+ ![image](https://github.com/user-attachments/assets/096173a5-7098-4055-8850-873498f12690)
+Please doubleclick the script but call it the npc chat to shorten the name to save time 
+![image](https://github.com/user-attachments/assets/ace42129-e723-44d5-92ce-f2de33a836dd)
+This will then take you into the visual studio
+![image](https://github.com/user-attachments/assets/ae423bda-69f8-4772-9ce8-fb7b5a5e8349)
+This should pop up when clicking on the script.
+
 
 
 
