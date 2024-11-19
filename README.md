@@ -20,4 +20,5 @@ i managed to fix the problem that would make the box drop completely by rapidly 
 made changes as the box would just fall straight away so made sure that the new code would keep it on the floor wilst still being able to keep it in the air at a time.
 
 12/11/24
-had a look at th
+had a look at doing a npc chat that would allow a user to apply text and be able to press a button and moves along each sentance used it can be used depending on what you want to talk about
+i looked into some 
