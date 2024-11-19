@@ -21,4 +21,8 @@ made changes as the box would just fall straight away so made sure that the new 
 
 12/11/24
 had a look at doing a npc chat that would allow a user to apply text and be able to press a button and moves along each sentance used it can be used depending on what you want to talk about
-i looked into some 
+i looked into some examples to get an idea for the general game i would like to make in the future as an rpg type game could be a good idea
+i had some problems when doing the code as it didn't align right and had made a error in spelling and not having a good layout.
+19/11/24
+i had started wrighting up the tutorials for the things i have made during the time in class i had finished the code required for the dialouge for the npcs to talk 
+it was a simple tutorial im going to work on these for now and add more detail and videos to help show how each code works together.
