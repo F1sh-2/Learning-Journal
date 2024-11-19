@@ -77,6 +77,103 @@ so please enter this code
      contButton.SetActive(true);
  }    
 it wants to check for any text or functions you have applied to make sure its fine to use.
+here is the full code for time reasons so you can learn but also the finished product as this will enable the code and the functions 
+    public GameObject dialoguePanel;
+    public Text dialogueText;
+    public string[] dialogue;
+    private int index;
+
+    public GameObject contButton;
+    public float wordSpeed;
+    public bool playerIsClose;
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.E) && !playerIsClose)
+        {
+            if (dialoguePanel.activeInHierarchy)
+            {
+                zeroText();
+            }
+            else
+            {
+                dialoguePanel.SetActive(true);
+                StartCoroutine(Typing());
+
+
+            }
+        }
+        if(dialogueText.text == dialogue[index])
+        {
+            contButton.SetActive(true);
+        }    
+
+    }
+
+
+
+    public void zeroText()
+    {
+        dialogueText.text = "";
+        index = 0;
+        dialoguePanel.SetActive(false);
+    }
+
+    IEnumerator Typing()
+    {
+        foreach (char letter in dialogue[index].ToCharArray())
+        {
+            dialogueText.text += letter;
+            yield return new WaitForSeconds(wordSpeed);
+        }
+    }
+
+    public void NextLine()
+    {
+        contButton.SetActive(false);
+
+        if (index < dialogue.Length - 1)
+        {
+            index++;
+            dialogueText.text = "";
+            StartCoroutine(Typing());
+
+        }
+
+        
+        
+        else
+        {
+            zeroText() ;
+        }
+    }
+
+
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            playerIsClose = true;
+        }
+    }
+    private void OnTriggerExit2D(Collider2D other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            playerIsClose = false;
+            zeroText();
+        }
+    }
+
+}     
+after doing this you will need to add the objects to the npc game object we created later 
+for this code to work in general so here is a screenshot of how to do this its pretty simple.
+![image](https://github.com/user-attachments/assets/e2dd6c99-1e47-4582-ac7c-031d6a74f148)
+thank you for listening 
+
+
+     
+
 
 
 
