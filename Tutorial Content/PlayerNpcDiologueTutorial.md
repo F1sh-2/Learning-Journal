@@ -28,6 +28,10 @@ Please doubleclick the script but call it the npc chat to shorten the name to sa
 This will then take you into the visual studio
 
 This should pop up when clicking on the script.
+so before we do anything just yet make sure you have a text file on the npc dialogue how you do this its a pretty simple
+so open the create option go into the ui and get to the legacy option and pick text this is here to remind you and so it works going forward.
+![image](https://github.com/user-attachments/assets/0377b739-6280-49ac-b914-94fdb681aecc)
+
 
 
 
