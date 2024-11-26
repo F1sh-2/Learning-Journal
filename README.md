@@ -26,3 +26,6 @@ i had some problems when doing the code as it didn't align right and had made a 
 19/11/24
 i had started wrighting up the tutorials for the things i have made during the time in class i had finished the code required for the dialouge for the npcs to talk 
 it was a simple tutorial im going to work on these for now and add more detail and videos to help show how each code works together.
+
+26/11/24
+started my prototype working on making the questions and answer with the correct one passing you through 
