@@ -15,6 +15,11 @@ please create a new project please call this drag and drop
 ![image](https://github.com/user-attachments/assets/4374aa45-5891-4280-8f9d-66fd1eae3ee1)
 Please then follow the video of the basic set-up and copy so we have all we need to start as this is an important step for any programmer to have to learn when doing this.
 //I could'nt add a video to the tutorial due to size of the file so here is a screenshot//
+the purpose of the tutorial is to do something fun but its a general simple one to do and takes up not a lot of time 
+drag and drop is used mainly in balloon tower defense games dragging in different turrets at a time 
+here is a finished product of the code.
+![image](https://github.com/user-attachments/assets/4ad62059-3331-4af9-b7e0-002dbfab8af9)
+
 
 
 once you have the c# file open please start typing this code 
@@ -53,6 +58,7 @@ make sure you put it below the {
 in the code.
 ![image](https://github.com/user-attachments/assets/2828f1cc-fd2d-44e2-b299-518511116075)
 thank you for following a silly code.
+
 
 
 
