@@ -29,3 +29,9 @@ it was a simple tutorial im going to work on these for now and add more detail a
 
 26/11/24
 started my prototype working on making the questions and answer with the correct one passing you through 
+having a game that you are able to move on to each questions potetnially might add some more down the line if needed
+
+# 03/12/24
+found a error with the prototype that made the questions not work propley by not switching the buttons to the new line of array so the button wouldn't switch over.
+so found a soultion by asking for some help fixed the problem 
+im working on the wright up for the tutorial for the drag and drop system 
