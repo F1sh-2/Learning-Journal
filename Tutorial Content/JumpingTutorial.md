@@ -24,7 +24,7 @@ so should look like something like this
 # nextStep
 please make sure you have any ojects you have created are on the screen
 so if you could add the next part of the code to add in the script created earlier as it is included as you may have some problems
-including errors or more 
+including errors or more to make the code work rapidly press the spacebar as it would allow you to see an action.
 ![image](https://github.com/user-attachments/assets/3a56a600-9b37-4085-98bf-ffe78d2001cf)
 please take a look into the picture above please just put these lines of code under the right parts the first one will be 
 this  rb = GetComponent<Rigidbody>();
@@ -39,6 +39,8 @@ just this code> isJumping = false; underneath
   }
 so it should end/look like this when finished.
 ![cube](https://github.com/user-attachments/assets/53a66a23-a196-4d3a-946e-944b2e34f578)
-
+how it works you press the spacebar as you create dthe key for this this enables the function
+that boosts the cube by constantly pushing the cube higher and higher nonstop but also you will need to add a rigid body so it just doesn't drop straight away.
+ill put a image down below how create the rigid body pretty simple.
 # makeing sure you put a rigid body 
 ![line](https://github.com/user-attachments/assets/3e15f970-b97c-4b3a-b928-23a284507bda)
