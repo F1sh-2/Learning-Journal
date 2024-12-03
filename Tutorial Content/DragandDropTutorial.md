@@ -9,6 +9,20 @@ its a simple one to do with simple steps please open unity
 please create a new project please call this drag and drop 
 ![image](https://github.com/user-attachments/assets/4374aa45-5891-4280-8f9d-66fd1eae3ee1)
 Please then follow the video of the basic set-up and copy so we have all we need to start as this is an important step for any programmer to have to learn when doing this.
+//I could'nt add a video to the tutorial due to size of the file so here is a screenshot//
+
+
+once you have the c# file open please start typing this code 
+ bool canMove;
+ bool dragging;
+ this enables you to move the object you chose allowing the functionalilty to work 
+ next step
+ ![image](https://github.com/user-attachments/assets/23966cf6-20a1-40a2-99cc-3d32a85ac6c6)
+ so put this code in the void start section as this would not loop so please put this code in here for the functions.
+ # Next step
+ the next line of code is a important as it adds a reference to the code already in place.
+
+ 
 
 
 
