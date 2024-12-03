@@ -1,6 +1,11 @@
 # drag and drop 
 welcome to this tutorial
-you will need these applications to begin the drag and drop system in unity:
+# what you will need to have knowledge in
+.Github
+.know basic code
+.be able to access unity 
+.have a laptop or computer.
+# you will need these applications to begin the drag and drop system in unity:
 Unity
 Visual Studio 
 Github-only if you would want to wrightup anything about the code you have done or general progress.
@@ -20,7 +25,7 @@ once you have the c# file open please start typing this code
  ![image](https://github.com/user-attachments/assets/23966cf6-20a1-40a2-99cc-3d32a85ac6c6)
  so put this code in the void start section as this would not loop so please put this code in here for the functions.
  # Next step
- the next line of code is a important as it adds a reference to the code already in place.
+ the next line of code is a important as it builds up on the main functions as these will enable you to add core parts of the code as this will allow proper functions 
 
  
 
