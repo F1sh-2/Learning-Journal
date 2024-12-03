@@ -26,8 +26,37 @@ once you have the c# file open please start typing this code
  so put this code in the void start section as this would not loop so please put this code in here for the functions.
  # Next step
  the next line of code is a important as it builds up on the main functions as these will enable you to add core parts of the code as this will allow proper functions 
+   Vector2 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
 
+   if (Input.GetMouseButtonDown(0))
+   {
+       if (collider2D != null && collider2D == Physics2D.OverlapPoint(mousePos))
+       {
+           canMove = true;
+       }
+       else
+       {
+           canMove = false;
+       }
+       if (canMove)
+       {
+           dragging = true;
+       }
  
+please follow by adding this text in the script attaching a screenshot of what to put in what section to make it easier for you to follow.
+![image](https://github.com/user-attachments/assets/80ac5fed-6c22-449d-bf16-d853ba403ec0)
+the idea for this code adds the function this would let the gameobject what you would like to do so the code you will type in will not have errors.
+going to add the final code this will wrap it up this will make it work so when put in game mode if you click into the screen you would be able to move the item around for a extra challange you can try iy on and other and try to drop it anywhere 
+here is the code please add it to the bottom of the code.
+![image](https://github.com/user-attachments/assets/408cd4d6-71ac-427d-8f1a-de1da82266ee)
+make sure you put it below the {
+in the code.
+![image](https://github.com/user-attachments/assets/2828f1cc-fd2d-44e2-b299-518511116075)
+thank you for following a silly code.
+
+
+
+
 
 
 
