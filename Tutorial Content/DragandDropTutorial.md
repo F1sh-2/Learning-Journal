@@ -1,14 +1,15 @@
 # drag and drop 
 welcome to this tutorial
 Aims
-to understand what drag and drop is 
-to get better at following tutorials
-to use the code in your own time 
+* to understand what drag and drop is 
+* to get better at following tutorials
+* to use the code in your own time
+* you need to understand what unity is and how to code in general.
 # what you will need to have knowledge in
-.Github
-.know basic code
-.be able to access unity 
-.have a laptop or computer.
+*Github
+*know basic code
+*be able to access unity 
+*have a laptop or computer.
 # you will need these applications to begin the drag and drop system in unity:
 Unity
 Visual Studio 
@@ -30,6 +31,13 @@ the purpose of the tutorial is to do something fun but its a general simple one 
 drag and drop is used mainly in balloon tower defense games dragging in different turrets at a time 
 here is a finished product of the code.
 ![image](https://github.com/user-attachments/assets/4ad62059-3331-4af9-b7e0-002dbfab8af9)
+the finished product will allow movement so to perfect this you need to add a keycode being the mouse how do you do this so you need to stay on the same code that you have created add a new line and we will go through step by step 
+here is a screenshot.
+![392043731-4ad62059-3331-4af9-b7e0-002dbfab8af9](https://github.com/user-attachments/assets/1a8bb8f9-fb4a-41b1-b656-2edfde593eed)
+Please follow this screenshot what does the getmousebutton do it allows the mouse to control the cube or gameobject in the game scene this allows the function to work going forward and it enables you to check if the code actualy works.
+![image](https://github.com/user-attachments/assets/cfb65fc2-c097-426c-8738-efe1802bbb0f)
+once you have the code done we will move on to the next section so we will focus on an area that adds more purpose check down below.
+
 
 
 
