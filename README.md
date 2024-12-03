@@ -35,3 +35,4 @@ having a game that you are able to move on to each questions potetnially might a
 found a error with the prototype that made the questions not work propley by not switching the buttons to the new line of array so the button wouldn't switch over.
 so found a soultion by asking for some help fixed the problem 
 im working on the wright up for the tutorial for the drag and drop system 
+i had changed my mind from my main idea which was a Tower Defense game which the idea being that you place turrets around being inspired by bt6
