@@ -169,7 +169,7 @@ here is the full code for time reasons so you can learn but also the finished pr
 after doing this you will need to add the objects to the npc game object we created later 
 for this code to work in general so here is a screenshot of how to do this its pretty simple.
 ![image](https://github.com/user-attachments/assets/e2dd6c99-1e47-4582-ac7c-031d6a74f148)
-thank you for listening 
+thank you for listening i wanted to create a fun project/tutorial that you can follow during the time 
 
 
      
