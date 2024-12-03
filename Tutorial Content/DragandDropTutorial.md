@@ -1,5 +1,9 @@
 # drag and drop 
 welcome to this tutorial
+Aims
+to understand what drag and drop is 
+to get better at following tutorials
+to use the code in your own time 
 # what you will need to have knowledge in
 .Github
 .know basic code
