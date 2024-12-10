@@ -82,7 +82,11 @@ now that it should work you can add a floor you will need a box clollider just i
 * press create 3d object
 * create plane 
 ![image](https://github.com/user-attachments/assets/0d077d41-5bac-4d61-a284-aea26539e419)
-  
+the point of this is understanding how you create a background for this scene
+for the possiblity that the object will fall so by having it flat on the ground will be able  to move
+for fun you can add a new material for the game object being a new colour 
+  ![image](https://github.com/user-attachments/assets/cf9e494d-7daa-4d05-b942-68e6a95dab76)
+
 
 
 
