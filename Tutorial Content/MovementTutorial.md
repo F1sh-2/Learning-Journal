@@ -27,6 +27,9 @@ var step = speed * Time.deltaTime; // calculate distance to move
 
 An error should appear when typed in the code   
 
+The purpose of the code is to be able to move the cube up right down and left this creates the use of the cube therefore enables the rigid body 
+which is already attached.
+
  
 
  
@@ -90,6 +93,13 @@ Here will be the finishing touches to complete the tutorial
 Here is some videos that you can use to help your understanding when on your own  
 
 How to move a player in Unity 3D 
+
+#
+here is some videos i had used to help creste the movement
+https://www.youtube.com/watch?v=b1uoLBp2I1w
+https://youtu.be/a-rogIWEJlY
+
+
 
 
 
