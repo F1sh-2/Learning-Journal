@@ -10,6 +10,59 @@ Aims
 * know basic code
 * be able to access unity 
 * have a laptop or computer.
+# the actual code 
+    bool canMove;
+    bool dragging;
+
+    Collider2D collider2D;
+    // Start is called before the first frame update
+    void Start()
+    {
+        collider2D = GetComponent<Collider2D>();
+        canMove = false;
+        dragging = false;
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        Vector2 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+
+        if (Input.GetMouseButtonDown(0))
+        {
+            if (collider2D != null && collider2D == Physics2D.OverlapPoint(mousePos))
+            {
+                canMove = true;
+            }
+            else
+            {
+                canMove = false;
+            }
+            if (canMove)
+            {
+                dragging = true;
+            }
+
+
+        }
+        if (dragging)
+        {
+            this.transform.position = mousePos;
+        }
+        if (Input.GetMouseButtonUp(0))
+        {
+            canMove = false;
+            dragging = false;
+
+        }
+    }
+} 
+![image](https://github.com/user-attachments/assets/7fd0f4d2-eca7-400e-a3fc-ababc6057665)
+what the get the componant does is you tell unity what you would like add 
+without this you wouldn't be able to identify the type of core section
+
+
+
 # you will need these applications to begin the drag and drop system in unity:
 * Unity
 * Visual Studio 
