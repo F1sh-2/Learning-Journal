@@ -36,3 +36,11 @@ found a error with the prototype that made the questions not work propley by not
 so found a soultion by asking for some help fixed the problem 
 im working on the wright up for the tutorial for the drag and drop system 
 i had changed my mind from my main idea which was a Tower Defense game which the idea being that you place turrets around being inspired by bt6
+
+# 10/12/2024
+i have started to lose ideas or general so planning to create some fun things for the tutorials
+so might add some fun things being able to images of things people might like as a logo for a characters
+im working on the prototype for testing of the actual game going forward.
+
+
+
