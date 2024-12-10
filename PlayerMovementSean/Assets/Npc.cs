@@ -5,9 +5,10 @@ using UnityEngine.UI;
 
 public class Npc : MonoBehaviour
 {
+    public Question_Manager manager;
     public GameObject dialoguePanel;
     public Text dialogueText;
-    public string[] dialogue;
+    public List<string> dialogue;
     private int index;
 
     public GameObject contButton;
@@ -15,7 +16,7 @@ public class Npc : MonoBehaviour
     public bool playerIsClose;
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.E) && !playerIsClose)
+        if (Input.GetKeyDown(KeyCode.Space) && !playerIsClose)
         {
             if (dialoguePanel.activeInHierarchy)
             {
@@ -34,6 +35,11 @@ public class Npc : MonoBehaviour
             contButton.SetActive(true);
         }    
 
+    }
+
+    public void AddQuestion(string question)
+    {
+        dialogue.Add(question);
     }
 
 
@@ -58,12 +64,13 @@ public class Npc : MonoBehaviour
     {
         contButton.SetActive(false);
 
-        if (index < dialogue.Length - 1)
+        if (index < dialogue.Count - 1)
         {
             index++;
             dialogueText.text = "";
             StartCoroutine(Typing());
 
+            manager.SetAnswers(dialogue[index]);
         }
 
         
