@@ -13,10 +13,11 @@ i use this video to help me learn the code in the tutorial its up to you if you 
   the sceond point would be if you would like a fun challange this would be fun for you
   before we start you make sure you download apps required
 # you will need these items to start:
-unity
-github
-github desktop app
-visual studio
+* unity- is used by most programmers universibly and a simple app to use 
+* github- is very popular and you are able to add files into different sets of folders including names of each scenes you made and will show up
+* just a quick reminder you may get some errors but should be fine if you get stuck ill put a video at the end of the tutorial.
+* github desktop app
+* visual studio
 # next section 
 to import the files and the importance of this is so we know where our files and main sections can be located and protected in the future.
 so if you have unity installed please open up a 3d project file how you do this right follow the image down below 
@@ -179,7 +180,10 @@ here is the full code for time reasons so you can learn but also the finished pr
 after doing this you will need to add the objects to the npc game object we created later 
 for this code to work in general so here is a screenshot of how to do this its pretty simple.
 ![image](https://github.com/user-attachments/assets/e2dd6c99-1e47-4582-ac7c-031d6a74f148)
-thank you for listening i wanted to create a fun project/tutorial that you can follow during the time 
+thank you for listening i wanted to create a fun project/tutorial that you can follow during
+here is some links i mention i will put in 
+for github
+https://www.youtube.com/watch?v=-RZ03WHqkaY
 
 
      
