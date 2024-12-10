@@ -1,6 +1,10 @@
 # Jump tutorial
 create a folder in google drive or onedrive as this is where your files will be contained in files
 open up github as you need to have something to remind you if you forget what you are doing.
+here is a screenshot of how you do this 
+![image](https://github.com/user-attachments/assets/157148bc-6ded-42aa-aecc-edcabd0c098e)
+pretty simple to do 
+
 the jumping tutorial is important as it is used in most games but is a fun one to do as you can cause the boxes to interact but you also need to focus on how you don't want them to fall 
 # what you will learn
 the basics of coding how the jumping machanics work in a game 
