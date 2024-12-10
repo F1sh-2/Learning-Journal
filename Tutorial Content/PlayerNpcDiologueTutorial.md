@@ -1,8 +1,18 @@
 # Welcome to the npc tutorial.
 today, you will learn how to make NPC dialogue
 this can be a hard one to-do as it requires alot of paitence 
-i use this video to help me learn the code in the tutorial ////https://www.youtube.com/watch?v=1nFNOyCalzo//
-you will need these items:
+i use this video to help me learn the code in the tutorial its up to you if you would like to use it.
+////https://www.youtube.com/watch?v=1nFNOyCalzo//
+# intro
+* the npc diologue is used in many ways it helps to create converstions between two npc characters
+* it helps to test out a conversations at a tap of a button
+* For example
+* the KeyCode would be e or spacebar for the ui you might need to create a playable button this would allow you to move on to the next questions.
+* this enables a automatic convo following depending on what you type in the text file.
+  The main point of the tutorial is to learn how it works and in games creating a diolouge for multiple characters are able to talk or interact.
+  the sceond point would be if you would like a fun challange this would be fun for you
+  before we start you make sure you download apps required
+# you will need these items to start:
 unity
 github
 github desktop app
