@@ -30,15 +30,26 @@ An error should appear when typed in the code
 The purpose of the code is to be able to move the cube up right down and left this creates the use of the cube therefore enables the rigid body 
 which is already attached.
 
+```cs
+float
+ public float horizontalInput;
+  public float verticalInput;
+  public float turnSpeed = 10;
+
+ //read values from keyboard
+ horizontalInput = Input.GetAxis("Horizontal");
+ verticalInput = Input.GetAxis("Vertical");
+ // move the object
+ transform.Translate(Vector3.forward * Time.deltaTime * verticalInput);
+ transform.Translate(-Vector3.right * Time.deltaTime * horizontalInput);
+transform.Rotate(Vector3.up * horizontalInput * turnSpeed * Time.deltaTime);
  
 
- 
 
- 
 
- 
+```
 
- 
+
 
  
 
