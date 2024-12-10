@@ -6,13 +6,13 @@ Aims
 * to use the code in your own time
 * you need to understand what unity is and how to code in general.
 # what you will need to have knowledge in
-*Github
-*know basic code
-*be able to access unity 
-*have a laptop or computer.
+* Github
+* know basic code
+* be able to access unity 
+* have a laptop or computer.
 # you will need these applications to begin the drag and drop system in unity:
-Unity
-Visual Studio 
+* Unity
+* Visual Studio 
 Github-only if you would want to wrightup anything about the code you have done or general progress.
 its a simple one to do with simple steps please open unity
 ![9a58ef0b0a39424aaf70dd4c30539b477ae54697-1200x630](https://github.com/user-attachments/assets/f06d5a02-bab6-49e4-8313-e0b10064ea6e)
@@ -23,6 +23,14 @@ please create a new project please call this drag and drop
 # how to create a game object in unity.
 ![image](https://github.com/user-attachments/assets/72ad6942-aa25-4342-8343-2ddd8cbd1bde)
 the purpose of the two above you need the basics to do anything in unity and this would give a good example of how to do it.
+how does it work in game mode you should be able to move the object or drag and drop anything wilst moving.
+now that it should work you can add a floor you will need a box clollider just in case
+* go to game object
+* press create 3d object
+* create plane 
+![image](https://github.com/user-attachments/assets/0d077d41-5bac-4d61-a284-aea26539e419)
+  
+
 
 
 Please then follow the video of the basic set-up and copy so we have all we need to start as this is an important step for any programmer to have to learn when doing this.
@@ -76,7 +84,19 @@ here is the code please add it to the bottom of the code.
 make sure you put it below the {
 in the code.
 ![image](https://github.com/user-attachments/assets/2828f1cc-fd2d-44e2-b299-518511116075)
+
 thank you for following a silly code.
+#
+summery 
+* you have learnt drag and drop
+* the basics of creating objects
+* adding functions
+* how to open/create scripts.
+purpose of the tutorial is to learn something fun and simple to do
+
+conclusion 
+the drag and drop system benefits the object or anything you would like to use it mostly benefits in games like a tower defense games when having to move a character to hit the enemy 
+
 
 
 
