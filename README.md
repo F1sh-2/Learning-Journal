@@ -39,6 +39,10 @@ i had changed my mind from my main idea which was a Tower Defense game which the
 
 # 10/12/2024
 i have started to lose ideas or general so planning to create some fun things for the tutorials
+or a good tutorial for a strong idea of wanting wanting a good idea 
+
+16/12/2024
+working harder on the tutorials including the main grammer of them havinga look into them 
 so might add some fun things being able to images of things people might like as a logo for a characters
 im working on the prototype for testing of the actual game going forward.
 
