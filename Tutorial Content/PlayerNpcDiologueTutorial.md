@@ -1,17 +1,24 @@
 # Welcome to the npc tutorial.
 today, you will learn how to make NPC dialogue
-this can be a hard one to-do as it requires alot of paitence 
+this can be a hard one to do, we're going to explore the art of crafting dialogue for non-playable characters (NPCs) in games and storytelling. Writing engaging NPC dialogue can be quite challenging, as it requires a great deal of creativity and patience. 
+
+First, consider the personality and background of each NPC. What are their motivations, fears, and goals? Understanding these aspects will help you create authentic interactions that feel natural within the game's world.
+you would need to think behind the ideas of what your character is going to do if it's just a simple chat that is the reason behind the tutorial.
+
+Next, think about the context in which the dialogue occurs. Is the NPC providing information, giving a quest, or simply engaging in small talk? Tailoring the dialogue to fit the situation will enhance the player's experience.
+
 i use this video to help me learn the code in the tutorial its up to you if you would like to use it.
 ////https://www.youtube.com/watch?v=1nFNOyCalzo//
 # intro
-* the npc diologue is used in many ways it helps to create converstions between two npc characters
-* it helps to test out a conversations at a tap of a button
-* For example
-* the KeyCode would be e or spacebar for the ui you might need to create a playable button this would allow you to move on to the next questions.
-* this enables a automatic convo following depending on what you type in the text file.
-  The main point of the tutorial is to learn how it works and in games creating a diolouge for multiple characters are able to talk or interact.
-  the sceond point would be if you would like a fun challange this would be fun for you
-  before we start you make sure you download apps required
+The NPC dialogue system is a versatile tool that serves several important functions in game development. Primarily, it facilitates the creation of conversations between non-player characters (NPCs), enhancing the storytelling aspect of a game. This system allows developers to simulate interactions, bringing the game world to life through meaningful dialogue.
+
+One of the key features of this system is the ability to test conversations quickly and efficiently. For example, you can assign a specific key, such as the "E" key or the spacebar, to trigger the dialogue user interface. This setup makes it easy for you to progress to the next line of dialogue or question, streamlining the testing process. 
+
+Additionally, the NPC dialogue system enables an automatic flow of conversation based on the text you input into a designated file. This means that once the system is set up, the dialogues can change dynamically according to the player’s choices or inputs, creating a more immersive experience.
+
+The main goal of this tutorial is to help you understand how the NPC dialogue system works and how you can implement it in your games. You will learn how to create interactive dialogues that allow multiple characters to engage in conversations, enhancing the overall gameplay experience.
+
+Furthermore, if you are interested in taking on an enjoyable challenge, working with this dialogue system can be a rewarding project that hones your skills in game design. Before we dive into the tutorial, please ensure you have downloaded all necessary applications and tools required for this process. This preparation will help you fully engage with the material and get the most out of the learning experience.* the npc diologue is used in many ways it helps to create converstions between two npc characters
 # you will need these items to start:
 * unity- is used by most programmers universibly and a simple app to use 
 * github- is very popular and you are able to add files into different sets of folders including names of each scenes you made and will show up
