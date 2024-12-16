@@ -1,4 +1,11 @@
 # Jump tutorial
+welcome to the jumping tutorial 
+what  you will need to work on the tutorial
+* unity
+* github
+* visual studio
+why do you need these they are the core to the project and are key to the success to the project not failing
+the point of visual studio is for any c# scripts you make or use will apear and will let you know if any problems occur and how to learn form the errors.
 create a folder in google drive or onedrive as this is where your files will be contained in files
 open up github as you need to have something to remind you if you forget what you are doing.
 here is a screenshot of how you do this 
