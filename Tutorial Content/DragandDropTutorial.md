@@ -10,6 +10,25 @@ Aims
 * know basic code
 * be able to access unity 
 * have a laptop or computer.
+# welcome to the tutorial
+this tutorial you will learn how to use drag and drop in use of moving a object.
+* 1st step
+* open unity
+* this is a normal step to create assets so please open up unity
+2nd step create a file call this drag and drop.
+how do you do this create a 3d game it would pop up with a menu it would be called new project double click this.
+Next section call the project Drag and drop.
+after this you should see a empty screen you will then create a game object its a simple process you need to have a cube how do you do this
+click on game object you should see a list of items please click on 3d object and then select a cube and it should pop up now we want to make this thing move
+
+
+
+
+
+
+
+
+
 # the actual code 
     bool canMove;
     bool dragging;
