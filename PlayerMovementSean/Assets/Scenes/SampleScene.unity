@@ -1690,6 +1690,42 @@ MonoBehaviour:
     - wheat
     - sugarcane
     - hops
+  - question: which looney tunes character has the name ethelbert
+    answers:
+    - wile e coyote
+    - bugs bunney
+    - porky pig
+    - daffy duck
+  - question: in what year did ww2 end
+    answers:
+    - 1945
+    - 1950
+    - 1960
+    - 1947
+  - question: as of may 2024 whats the highest rated filme
+    answers:
+    - the shawshank redemption
+    - the Godfather
+    - the good the bad and the ugly
+    - fight club
+  - question: guess which is the highest rated video game
+    answers:
+    - The Legend of zelda ocarina of time
+    - Super mario galaxy
+    - 'Baldurs gate 3 '
+    - metroid Prime
+  - question: whats the most streamed christmas song
+    answers:
+    - 'all i want for christmas is you '
+    - Last christmas
+    - 2000 miles
+    - The Christmas song
+  - question: what is the national dish of england
+    answers:
+    - Tikka Masala
+    - Mince Pie
+    - Pasty
+    - Fish and chips
   npc: {fileID: 1364606150}
   answerText: {fileID: 0}
   answers: 01000000
