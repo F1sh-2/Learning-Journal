@@ -48,6 +48,10 @@ im working on the prototype for testing of the actual game going forward.
 
 17/12/2024
 testing out new questions for the game it didn't have many problem
+but thinking things through errors popped up when changing the code around making it simple 
+i looked at different games to gain inspo and some ideas  so stuck with the quiz game 
+currently no issues have popped up 
+filmed a video of the game being played did it twice one being a updated version one being the lowest.
 
 
 
