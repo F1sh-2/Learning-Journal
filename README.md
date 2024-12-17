@@ -46,5 +46,8 @@ working harder on the tutorials including the main grammer of them havinga look 
 so might add some fun things being able to images of things people might like as a logo for a characters
 im working on the prototype for testing of the actual game going forward.
 
+17/12/2024
+testing out new questions for the game it didn't have many problem
+
 
 
