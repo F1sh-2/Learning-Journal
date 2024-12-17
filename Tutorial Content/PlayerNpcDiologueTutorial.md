@@ -32,6 +32,10 @@ so if you have unity installed please open up a 3d project file how you do this 
 so follow the arrow if need help i will put a video also at the end 
 So create a uv file it will be found in the assets 
 once you have a uv text document this will apply a conversation or a background for the code to work as this enables the functions to work moving on forward you will need to add text file to find this ill add an example from earlier. 
+the example will show the code and teaches you how to create a file or the ui 
+what does the ui do i allows you to work on text mesh pro and creates a canvas for the npc to chat and includes the balance needed
+step by step benefits a simple process.
+
 ![image](https://github.com/user-attachments/assets/0efd9c23-07b5-4c13-8a4f-a5045a960168)
 before we start the code im going to show the finished product so you know what to expect from the code lesson and the tutorial itself as a simple thing to do.
 ![image](https://github.com/user-attachments/assets/740099bf-7917-43d5-b25a-9a35352152f0)
