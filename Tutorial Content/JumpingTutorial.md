@@ -50,8 +50,9 @@ just this code> isJumping = false; underneath
   }
 so it should end/look like this when finished.
 ![cube](https://github.com/user-attachments/assets/53a66a23-a196-4d3a-946e-944b2e34f578)
-how it works you press the spacebar as you create dthe key for this this enables the function
+how it works you press the spacebar as you create the key for this this enables the function
 that boosts the cube by constantly pushing the cube higher and higher nonstop but also you will need to add a rigid body so it just doesn't drop straight away.
-ill put a image down below how create the rigid body pretty simple.
-# makeing sure you put a rigid body 
+I'll put an image down below of how to create the rigid body pretty simply.
+# Make sure you put a rigid body 
 ![line](https://github.com/user-attachments/assets/3e15f970-b97c-4b3a-b928-23a284507bda)
+this would enable you to see the game object and this would stop it from falling this would be in place automatically 
