@@ -1,12 +1,12 @@
  # Player Movement tutorial 
 
-I expect you are able to do the basics of understanding of unity and how it wors 
+I expect you to be familiar do the basics of understanding unity and how it works 
 
 Please download Unity 2022 46.1f if not so you can work alongside this document to go step by step. 
 
 Open Unity and go to the game object section, add a 3D object, and select a cube, as this will be the main character in the tutorial  
 
-And after that please do the same step but creates a script how to do this is  
+After that please do the same step but create a script how to do this is  
 
 Time to start coding the tutorial. 
 
@@ -81,33 +81,32 @@ void Update()
 
 { 
 
-     //read values from keyboard 
+     //read values from the keyboard 
 
      horizontalInput = Input.GetAxis("Horizontal"); 
 
      verticalInput = Input.GetAxis("Vertical"); 
 
-     // move the object 
+     //Move the object 
 
      transform.Translate(Vector3.forward * Time.deltaTime * verticalInput); 
 
-     transform. Translate(-Vector3.right * Time.deltaTime * horizontal Input); 
+     Transform. Translate(-Vector3.right * Time.deltaTime * horizontal Input); 
 
-Put it in a script you will call movement  
+Please put it in a script you will call movement.  
 
-And for some fun you can add a colour to your cube  
+And for some fun, you can add a colour to your cube.  
 
 Here will be the finishing touches to complete the tutorial 
 
  
 
-Here is some videos that you can use to help your understanding when on your own  
+Here are some videos that you can use to help your understanding when on your own  
 
 How to move a player in Unity 3D 
 
 #
-here is some videos i had used to help creste the movement
-https://www.youtube.com/watch?v=b1uoLBp2I1w
+here are some videos I used to help create the movement: https://www.youtube.com/watch?v=b1uoLBp2I1w
 https://youtu.be/a-rogIWEJlY
 
 
