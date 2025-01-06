@@ -1,3 +1,7 @@
+# Intro
+welcome to player movement in unity
+you will learn how to move an object in unity and how it works in games.
+ 
  # Player Movement tutorial 
 
 I expect you to be familiar do the basics of understanding unity and how it works 
